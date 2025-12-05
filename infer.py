@@ -1,4 +1,3 @@
- url=https://github.com/VAST-AI-Research/TriplaneGaussian/blob/main/infer.py
 #!/usr/bin/env python3
 """
 infer.py
